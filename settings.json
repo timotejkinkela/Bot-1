@@ -6,8 +6,8 @@
     "type": "online"
   },
   "server": {
-    "ip": "server__1_.aternos.me",
-    "port": 40954,
+    "ip": "server_1_.aternos.me:64308",
+    "port": 64308,
     "version": "",
     "try-creative": false
   },
